@@ -1,1 +1,1 @@
-# mykeyboardmap
+# mykeymap
